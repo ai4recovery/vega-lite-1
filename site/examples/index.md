@@ -1,3 +1,5 @@
+# Vega-Lite Examples
+
 ---
 layout: page
 menu: examples
